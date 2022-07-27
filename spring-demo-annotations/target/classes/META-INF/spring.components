@@ -1,0 +1,12 @@
+com.andinh.springdemo.BadFortuneService=org.springframework.stereotype.Component
+com.andinh.springdemo.BaseballPracticeConfig=org.springframework.stereotype.Component
+com.andinh.springdemo.DatabaseService=org.springframework.stereotype.Component
+com.andinh.springdemo.HappyFortuneService=org.springframework.stereotype.Component
+com.andinh.springdemo.MyCustomBeanProcessor=org.springframework.stereotype.Component
+com.andinh.springdemo.NormalFortuneService=org.springframework.stereotype.Component
+com.andinh.springdemo.RESTFortuneService=org.springframework.stereotype.Component
+com.andinh.springdemo.RacketCoach=org.springframework.stereotype.Component
+com.andinh.springdemo.RandomFortuneService=org.springframework.stereotype.Component
+com.andinh.springdemo.SadFortuneService=org.springframework.stereotype.Component
+com.andinh.springdemo.SportConfig=org.springframework.stereotype.Component
+com.andinh.springdemo.TennisCoach=org.springframework.stereotype.Component
